@@ -1,11 +1,13 @@
 <div align="center">
 
-# Hi, I'm Kingsley (Chinedu) Asuzu 👋
+# Kingsley (Chinedu) Asuzu
 
-### IT Support & Cloud Infrastructure Professional
+### Cybersecurity & Information Security Professional | CISA Certified
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu)
-[![GitHub](https://img.shields.io/badge/GitHub-kingsrule50-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kingsrule50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu--cisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![CISA](https://img.shields.io/badge/CISA-Certified-CC0000?style=for-the-badge&logo=isaca&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![Location](https://img.shields.io/badge/Location-New%20Jersey%2C%20USA-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-28a745?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 
 </div>
 
@@ -13,9 +15,28 @@
 
 ## 👨‍💻 About Me
 
-I am an IT professional building hands-on expertise across cloud infrastructure, identity security, endpoint management, and IT service management. My portfolio demonstrates real-world deployments — not tutorials — covering Microsoft 365, Azure, ServiceNow, and security tooling used by enterprise IT teams every day.
+I am a **CISA-certified** Cybersecurity and Information Security professional with hands-on expertise spanning cloud security, identity management, risk management, compliance governance, and IT service management. I hold a degree from **New Jersey Institute of Technology** and I am actively building a portfolio of real-world deployments that demonstrate the skills employers need on day one.
 
-I document everything I build so that anyone reviewing my work can see exactly what I did, why I did it, and what the outcome was. Every repository in this portfolio includes a problem statement, step-by-step evidence, and screenshots of completed work.
+My work covers the full enterprise IT stack — from securing Microsoft Entra ID identities and deploying Windows endpoints at scale, to building SIEM detection logic in Splunk and managing ITSM workflows in ServiceNow. Every project in this portfolio includes a problem statement, step-by-step documentation, and screenshot evidence of completed work — not tutorials, not walkthroughs, but real implementations I built myself.
+
+**Areas of Expertise:**
+- 🔐 Cybersecurity & Information Security — risk assessment, compliance governance, security controls
+- ☁️ Microsoft Cloud Engineering — Azure, Microsoft 365, Entra ID (Azure AD)
+- 🛡️ Identity & Access Management — Conditional Access, PIM, MFA, Zero Trust architecture
+- 💻 Endpoint Management — Microsoft Intune, Windows Autopilot, device compliance
+- 📡 Network Security & Threat Detection — Wireshark, Splunk SIEM, pfSense, Nmap
+- 🎫 IT Service Management — ServiceNow incident, change, and service catalog workflows
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuing Body | Status |
+|--------------|-------------|--------|
+| **CISA — Certified Information Systems Auditor** | ISACA | ✅ Active |
+| AZ-104 — Azure Administrator Associate | Microsoft | 🎯 In Progress |
+| SC-200 — Security Operations Analyst | Microsoft | 🎯 In Progress |
+| CompTIA Security+ | CompTIA | 🎯 In Progress |
 
 ---
 
@@ -24,11 +45,12 @@ I document everything I build so that anyone reviewing my work can see exactly w
 | Category | Technologies |
 |----------|-------------|
 | **Cloud Platforms** | Microsoft Azure, Microsoft 365 |
-| **Identity & Security** | Microsoft Entra ID, Conditional Access, PIM, MFA |
+| **Identity & Security** | Microsoft Entra ID, Conditional Access, PIM, MFA, Zero Trust |
 | **Endpoint Management** | Microsoft Intune, Windows Autopilot, Entra ID Join |
-| **ITSM** | ServiceNow (Incident, Change, Service Catalog, Reporting) |
+| **ITSM** | ServiceNow — Incident, Change, Service Catalog, Reporting |
 | **Collaboration** | Microsoft Teams Admin Center, Exchange Online, SharePoint |
 | **Network & Security** | Wireshark, Splunk SIEM, pfSense, Nmap, Kali Linux |
+| **Risk & Compliance** | CISA, Risk Management, Compliance Governance, Audit |
 | **Monitoring & Detection** | Splunk SPL, Azure Monitor, Entra ID Protection |
 
 ---
@@ -36,47 +58,55 @@ I document everything I build so that anyone reviewing my work can see exactly w
 ## 📁 Portfolio Projects
 
 ### 🔐 Security & Identity
-| Project | Description |
+
+| Project | What I Built |
 |---------|-------------|
-| [**Conditional Access & MFA Lab**](https://github.com/kingsrule50/conditional-access-mfa-lab) | Built a layered Conditional Access architecture in Microsoft Entra ID — enforcing MFA, blocking Tor-based sign-ins, and triggering risk-based password resets using real-time Identity Protection signals |
-| [**Privileged Identity Management (PIM)**](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | Implemented Just-In-Time access control for Global Administrator using PIM — configured time-bound eligibility, MFA enforcement, approval workflows, and audit logging |
+| [**Conditional Access & MFA Lab**](https://github.com/kingsrule50/conditional-access-mfa-lab) | Layered Conditional Access architecture in Microsoft Entra ID — enforcing MFA, blocking Tor-based sign-ins using real-time risk signals, and automating password resets when account risk is elevated to High |
+| [**Privileged Identity Management (PIM)**](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | Just-In-Time access control for Global Administrator — time-bound PIM eligibility, MFA on activation, multi-approver workflows, and full audit logging replacing permanent standing privilege |
 | [**Wireshark Threat Detection Lab**](https://github.com/kingsrule50/wireshark-threat-detection-lab) | Simulated SYN scan and SMB enumeration attacks in a segmented VMware lab, captured full attack traffic in Wireshark, and produced SOC-ready detection logic mapped to MITRE ATT&CK |
 | [**Azure SOC Homelab — Splunk SIEM**](https://github.com/kingsrule50/azure-soc-homelab) | Deployed Splunk Enterprise on Azure, ingested Active Directory event logs via Universal Forwarder, wrote SPL detection queries, built security dashboards, and automated brute-force alerting |
 
-### ☁️ Cloud & Endpoint
-| Project | Description |
+### ☁️ Cloud & Endpoint Management
+
+| Project | What I Built |
 |---------|-------------|
-| [**Windows Autopilot & Intune**](https://github.com/kingsrule50/windows-autopilot-intune) | Built an end-to-end zero-touch Windows deployment pipeline — hardware hash registration, Autopilot profile configuration, OOBE provisioning, MFA enforcement, and device compliance validation |
-| [**Champulze M365 Tenant Deployment**](https://github.com/kingsrule50/Champulze_M365_Project_) | Delivered a complete Microsoft 365 tenant build for a smart manufacturing startup — domain integration, Teams Premium, Exchange Online, SharePoint, user provisioning, and UAT |
+| [**Windows Autopilot & Intune**](https://github.com/kingsrule50/windows-autopilot-intune) | End-to-end zero-touch Windows deployment pipeline — hardware hash registration, Autopilot profile configuration, OOBE provisioning, MFA enforcement, Windows Hello for Business, and device compliance |
+| [**Champulze M365 Tenant Deployment**](https://github.com/kingsrule50/Champulze_M365_Project_) | Full Microsoft 365 tenant build for a smart manufacturing startup — domain integration, Teams Premium, Exchange Online, SharePoint, user provisioning, Copilot configuration, and UAT validation |
 
 ### 📡 IT Operations & ITSM
-| Project | Description |
+
+| Project | What I Built |
 |---------|-------------|
-| [**ServiceNow ITSM Lab**](https://github.com/kingsrule50/servicenow-itsm-lab) | Built and documented end-to-end ITSM workflows — incident lifecycle, service catalog with custom request forms, change request through CAB approval, and operational reporting |
-| [**Soulinspire M365 Teams Rollout**](https://github.com/kingsrule50/soulinspire-m365-teams-rollout) | Designed and deployed a governed Microsoft Teams environment for a non-profit — team provisioning, channel architecture, messaging policies, and audio conferencing configuration |
+| [**ServiceNow ITSM Lab**](https://github.com/kingsrule50/servicenow-itsm-lab) | End-to-end ITSM workflows — incident lifecycle, service catalog with custom request forms, change request through CAB approval process, and operational reporting dashboards |
+| [**Soulinspire M365 Teams Rollout**](https://github.com/kingsrule50/soulinspire-m365-teams-rollout) | Governed Microsoft Teams deployment for a non-profit — team provisioning, three-tier channel architecture, messaging and caller ID policies, and audio conferencing configuration |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsrule50&show_icons=true&theme=default&hide_border=true&count_private=false)
+![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsrule50&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsrule50&layout=compact&hide_border=true&theme=default)
 
 </div>
 
 ---
 
-## 🎯 Currently Working Towards
+## 🎓 Education
 
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- **Microsoft Certified: Security Operations Analyst (SC-200)**
-- **CompTIA Security+**
+**New Jersey Institute of Technology**
+Irvington, New Jersey, USA
 
 ---
 
+## 🤝 Let's Connect
+
+I am open to roles in Cybersecurity, Cloud Security, IT Administration, SOC Analysis, and IT Service Management across the New Jersey / New York metro area and remote.
+
 <div align="center">
 
-*Open to IT Support, Cloud Support, Junior SysAdmin, and SOC Analyst roles*
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 
 </div>
