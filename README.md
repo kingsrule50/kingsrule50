@@ -2,14 +2,13 @@
 
 # Kingsley (Chinedu) Asuzu
 
-### Cybersecurity & Information Security Professional | CISA Certified
+### Cybersecurity & Information Security Professional | CISA | Security+ | SC-401
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu--cisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![CISA](https://img.shields.io/badge/CISA-Certified-CC0000?style=for-the-badge&logo=isaca&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-[![SC-401](https://img.shields.io/badge/Microsoft-SC--401%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-[![Location](https://img.shields.io/badge/Location-New%20Jersey%2C%20USA-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-28a745?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![SC-401](https://img.shields.io/badge/Microsoft-SC--401-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-New%20Jersey%20USA-28a745?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 
 </div>
 
@@ -64,10 +63,10 @@ My work covers the full enterprise IT stack — from securing Microsoft Entra ID
 
 | Project | What I Built |
 |---------|-------------|
+| [**Azure SOC Homelab — Splunk SIEM**](https://github.com/kingsrule50/azure-soc-homelab) | Deployed Splunk Enterprise on Azure, ingested Active Directory event logs via Universal Forwarder, wrote SPL detection queries, built security dashboards, and automated brute-force alerting |
 | [**Conditional Access & MFA Lab**](https://github.com/kingsrule50/conditional-access-mfa-lab) | Layered Conditional Access architecture in Microsoft Entra ID — enforcing MFA, blocking Tor-based sign-ins using real-time risk signals, and automating password resets when account risk is elevated to High |
 | [**Privileged Identity Management (PIM)**](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | Just-In-Time access control for Global Administrator — time-bound PIM eligibility, MFA on activation, multi-approver workflows, and full audit logging replacing permanent standing privilege |
 | [**Wireshark Threat Detection Lab**](https://github.com/kingsrule50/wireshark-threat-detection-lab) | Simulated SYN scan and SMB enumeration attacks in a segmented VMware lab, captured full attack traffic in Wireshark, and produced SOC-ready detection logic mapped to MITRE ATT&CK |
-| [**Azure SOC Homelab — Splunk SIEM**](https://github.com/kingsrule50/azure-soc-homelab) | Deployed Splunk Enterprise on Azure, ingested Active Directory event logs via Universal Forwarder, wrote SPL detection queries, built security dashboards, and automated brute-force alerting |
 
 ### ☁️ Cloud & Endpoint Management
 
