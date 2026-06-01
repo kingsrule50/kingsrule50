@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu--cisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![CISA](https://img.shields.io/badge/CISA-Certified-CC0000?style=for-the-badge&logo=isaca&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![SC-401](https://img.shields.io/badge/Microsoft-SC--401%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![Location](https://img.shields.io/badge/Location-New%20Jersey%2C%20USA-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-28a745?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 
@@ -15,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **CISA-certified** Cybersecurity and Information Security professional with hands-on expertise spanning cloud security, identity management, risk management, compliance governance, and IT service management. I hold a degree from **New Jersey Institute of Technology** and I am actively building a portfolio of real-world deployments that demonstrate the skills employers need on day one.
+I am a **CISA-certified**, **CompTIA Security+**, and **Microsoft SC-401 certified** Cybersecurity and Information Security professional with hands-on expertise spanning cloud security, identity management, risk management, compliance governance, and IT service management. I hold a degree from **New Jersey Institute of Technology** and I am actively building a portfolio of real-world deployments that demonstrate the skills employers need on day one.
 
 My work covers the full enterprise IT stack — from securing Microsoft Entra ID identities and deploying Windows endpoints at scale, to building SIEM detection logic in Splunk and managing ITSM workflows in ServiceNow. Every project in this portfolio includes a problem statement, step-by-step documentation, and screenshot evidence of completed work — not tutorials, not walkthroughs, but real implementations I built myself.
 
@@ -34,9 +36,10 @@ My work covers the full enterprise IT stack — from securing Microsoft Entra ID
 | Certification | Issuing Body | Status |
 |--------------|-------------|--------|
 | **CISA — Certified Information Systems Auditor** | ISACA | ✅ Active |
+| **SC-401 — Microsoft Certified: Information Security Administrator Associate** | Microsoft | ✅ Active |
+| **CompTIA Security+** | CompTIA | ✅ Active |
 | AZ-104 — Azure Administrator Associate | Microsoft | 🎯 In Progress |
 | SC-200 — Security Operations Analyst | Microsoft | 🎯 In Progress |
-| CompTIA Security+ | CompTIA | 🎯 In Progress |
 
 ---
 
