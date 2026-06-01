@@ -88,9 +88,9 @@ My work covers the full enterprise IT stack — from securing Microsoft Entra ID
 
 <div align="center">
 
-![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsrule50&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kingsrule50&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kingsrule50)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsrule50&layout=compact&hide_border=true&theme=default)
+[![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsrule50&show_icons=true&theme=default&hide_border=true&count_private=false&rank_icon=github)](https://github.com/kingsrule50)
 
 </div>
 
