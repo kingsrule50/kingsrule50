@@ -88,9 +88,16 @@ My work covers the full enterprise IT stack — from securing Microsoft Entra ID
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kingsrule50&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kingsrule50)
+![Profile Views](https://komarev.com/ghpvc/?username=kingsrule50&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsrule50&show_icons=true&theme=default&hide_border=true&count_private=false&rank_icon=github)](https://github.com/kingsrule50)
+| Metric | Count |
+|--------|-------|
+| 📁 Public Repositories | 9 |
+| ⭐ Focus Areas | Cybersecurity · Cloud · ITSM |
+| 🗓️ Active Since | 2024 |
+| 📍 Location | New Jersey, USA |
+
+> *All repositories include full documentation, problem statements, and screenshot evidence of completed work.*
 
 </div>
 
