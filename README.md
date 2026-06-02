@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kingsley (Chinedu) Asuzu
+# Chinedu k Asuzu
 
 ### Cybersecurity & Information Security Professional | CISA | Security+ | SC-401
 
