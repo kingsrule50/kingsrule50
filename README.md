@@ -68,7 +68,22 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 
 ## 📁 Portfolio Projects
 
-### 🔐 Security & Identity
+### ☁️ Azure Cloud Engineering & Security
+
+| Project | What I Built |
+|---|---|
+| [**Secure Azure 2-Tier Web Architecture**](https://github.com/kingsrule50/azure-secure-2tier-web-app-lab) | Designed and deployed a secure two-tier Azure architecture using VNets, segmented subnets, NSGs, Linux VMs, private backend connectivity, and network validation. |
+| [**Microsoft Sentinel SOC Lab**](https://github.com/kingsrule50/microsoft-sentinel-soc-lab) | Built an Azure SOC environment with Windows Server, Microsoft Sentinel, Log Analytics, Azure Monitor Agent, Data Collection Rules, security-event collection, and Terraform-based infrastructure. |
+| [**Microsoft Sentinel Detection Engineering**](https://github.com/kingsrule50/microsoft-sentinel-detection-engineering-lab) | Developed KQL detections, Microsoft Sentinel analytics rules, incident investigation workflows, and SOC dashboards for security monitoring and threat detection. |
+| [**Azure Static Website — Terraform & CI/CD**](https://github.com/kingsrule50/azure-static-website-lab) | Automated Azure Blob Storage static-site infrastructure with Terraform and GitHub Actions CI/CD using OIDC workload identity instead of stored cloud credentials. |
+| [**Azure Governance & Policy Lab**](https://github.com/kingsrule50/azure-governance-policy-lab) | Implemented Azure governance using custom Azure Policy definitions, policy initiatives, compliance monitoring, RBAC, and resource locks. |
+| [**Azure Update Manager Lab**](https://github.com/kingsrule50/azure-update-manager-lab) | Implemented Azure patch and compliance management using Update Manager, Azure Policy enrollment, maintenance windows, Terraform, and PowerShell validation. |
+| [**Nessus Vulnerability Scanning on Azure**](https://github.com/kingsrule50/nessus-vulnerability-scanning-lab) | Deployed Nessus infrastructure on Azure with Terraform, performed credentialed vulnerability scanning, analyzed findings, remediated vulnerabilities, and validated remediation through rescanning. |
+| [**Azure Infrastructure Automation Series**](https://github.com/kingsrule50/ntfs-lab-terraform) | Built a multi-stage Azure infrastructure automation environment using Terraform, Windows Server, Active Directory, PowerShell, SMB file services, NTFS permissions, RBAC, networking, and remote Terraform state. |
+
+---
+
+### 🛡️ Security Operations & Identity
 
 | Project | What I Built |
 |---------|-------------|
@@ -76,39 +91,43 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 | [**Conditional Access & MFA Lab**](https://github.com/kingsrule50/conditional-access-mfa-lab) | Layered Conditional Access architecture in Microsoft Entra ID — enforcing MFA, blocking Tor-based sign-ins using real-time risk signals, and automating password resets when account risk is elevated to High |
 | [**Privileged Identity Management (PIM)**](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | Just-In-Time access control for Global Administrator — time-bound PIM eligibility, MFA on activation, multi-approver workflows, and full audit logging replacing permanent standing privilege |
 | [**Wireshark Threat Detection Lab**](https://github.com/kingsrule50/wireshark-threat-detection-lab) | Simulated SYN scan and SMB enumeration attacks in a segmented VMware lab, captured full attack traffic in Wireshark, and produced SOC-ready detection logic mapped to MITRE ATT&CK |
+| [**Active Directory on Azure — Terraform**](https://github.com/kingsrule50/azure-ad-terraform-lab) | Deployed Windows Server Active Directory Domain Services on Azure using Terraform, including automated AD DS installation, DNS configuration, domain promotion, and infrastructure provisioning. |
 
-### ☁️ Cloud & Endpoint Management
+ ### 💻 Microsoft 365 & Endpoint Management
 
 | Project | What I Built |
-|---------|-------------|
-| [**Windows Autopilot & Intune**](https://github.com/kingsrule50/windows-autopilot-intune) | End-to-end zero-touch Windows deployment pipeline — hardware hash registration, Autopilot profile configuration, OOBE provisioning, MFA enforcement, Windows Hello for Business, and device compliance |
-| [**Champulze M365 Tenant Deployment**](https://github.com/kingsrule50/Champulze_M365_Project_) | Full Microsoft 365 tenant build for a smart manufacturing startup — domain integration, Teams Premium, Exchange Online, SharePoint, user provisioning, Copilot configuration, and UAT validation |
+|---|---|
+| [**Windows Autopilot & Intune**](https://github.com/kingsrule50/windows-autopilot-intune) | Implemented zero-touch Windows provisioning with Microsoft Intune and Windows Autopilot, including hardware registration, deployment profiles, Entra ID integration, MFA enforcement, Windows Hello for Business, and device compliance validation. |
+| [**Champulze Microsoft 365 Tenant Deployment**](https://github.com/kingsrule50/Champulze_M365_Project_) | Built and configured a Microsoft 365 tenant environment including domain integration, user provisioning, Exchange Online, SharePoint, Microsoft Teams, licensing, security configuration, and user acceptance testing. |
+| [**Soulinspire Microsoft Teams Rollout**](https://github.com/kingsrule50/soulinspire-m365-teams-rollout) | Designed a governed Microsoft Teams deployment including team provisioning, channel architecture, messaging policies, caller ID controls, audio conferencing, and Microsoft 365 administration. |
+
 
 ### 📡 IT Operations & ITSM
 
 | Project | What I Built |
 |---------|-------------|
 | [**ServiceNow ITSM Lab**](https://github.com/kingsrule50/servicenow-itsm-lab) | End-to-end ITSM workflows — incident lifecycle, service catalog with custom request forms, change request through CAB approval process, and operational reporting dashboards |
-| [**Soulinspire M365 Teams Rollout**](https://github.com/kingsrule50/soulinspire-m365-teams-rollout) | Governed Microsoft Teams deployment for a non-profit — team provisioning, three-tier channel architecture, messaging and caller ID policies, and audio conferencing configuration |
-
+ 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kingsrule50&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kingsrule50&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)
+| Focus Area | Technologies |
+|---|---|
+| ☁️ **Azure Cloud Engineering & Administration** | Azure Infrastructure, Virtual Machines, Networking, RBAC, Monitoring, Governance, Terraform, Automation |
+| 🛡️ **Cloud & Security Operations** | Microsoft Sentinel, KQL, Log Analytics, Splunk, Vulnerability Management |
+| 🔐 **Identity & Access Management** | Microsoft Entra ID, RBAC, PIM, Conditional Access, MFA |
+| 🏢 **Microsoft Cloud** | Microsoft 365, Intune, Exchange Online, Teams, SharePoint |
+| 📋 **Governance, Risk & Compliance** | Azure Policy, NIST CSF, ISO 27001, Risk Management, IT Audit |
+| 🛠️ **Automation & Infrastructure as Code** | Terraform, PowerShell, Azure CLI, Microsoft Graph, Bash |
 
-| Metric | Count |
-|--------|-------|
-| 📁 Public Repositories | 9 |
-| ⭐ Focus Areas | Cybersecurity · Cloud · ITSM |
-| 🗓️ Active Since | 2024 |
-| 📍 Location | New Jersey, USA |
-
-> *All repositories include full documentation, problem statements, and screenshot evidence of completed work.*
-
-</div>
+<p align="center">
+  <i>Hands-on cloud, security, identity, automation, and governance projects with technical documentation and implementation evidence.</i>
+</p> 
 
 ---
 
@@ -119,12 +138,12 @@ Irvington, New Jersey, USA
 
 ---
 
-## 🤝 Let's Connect
+ ## 🤝 Let's Connect
 
-I am open to roles in Cybersecurity, Cloud Security, IT Administration, SOC Analysis, and IT Service Management across the New Jersey / New York metro area and remote.
+I am open to opportunities in **Azure Cloud Engineering, Azure Administration, Cloud Security, Security Operations, Microsoft 365, Identity & Access Management, and GRC**, across the **New Jersey / New York metro area and remote**.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chinedu-asuzu-cisa">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
