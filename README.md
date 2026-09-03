@@ -2,7 +2,7 @@
 
 # Chinedu k Asuzu
 
-### Cybersecurity & Information Security Professional | CISA | Security+ | SC-401
+### Azure Cloud & Security Professional | CISA | Security+ | SC-401 | Azure Infrastructure • Entra ID • Microsoft Sentinel • Terraform • Microsoft 365
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu--cisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![CISA](https://img.shields.io/badge/CISA-Certified-CC0000?style=for-the-badge&logo=isaca&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
@@ -16,17 +16,20 @@
 
 ## 👨‍💻 About Me
 
-I am a **CISA-certified**, **CompTIA Security+**, and **Microsoft SC-401 certified** Cybersecurity and Information Security professional with hands-on expertise spanning cloud security, identity management, risk management, compliance governance, and IT service management. I hold a cybersecurity certification from **New Jersey Institute of Technology** and I am actively building a portfolio of real-world deployments that demonstrate the skills employers need on day one.
+ I am a **CISA-certified, CompTIA Security+, and Microsoft SC-401 certified Azure Cloud & Security professional** with hands-on experience designing, deploying, securing, monitoring, and automating Microsoft cloud environments. My work spans Azure infrastructure, cloud security, identity and access management, security operations, Microsoft 365, risk management, compliance governance, and IT service management.
 
-My work covers the full enterprise IT stack — from securing Microsoft Entra ID identities and deploying Windows endpoints at scale, to building SIEM detection logic in Splunk and managing ITSM workflows in ServiceNow. Every project in this portfolio includes a problem statement, step-by-step documentation, and screenshot evidence of completed work — not tutorials, not walkthroughs, but real implementations I built myself.
+My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnets, NSGs, Azure SQL, Key Vault, Managed Identities, RBAC, Azure Monitor, Log Analytics, and Microsoft Sentinel**, as well as automating Azure infrastructure with **Terraform, PowerShell, Azure CLI, and Microsoft Graph**. I build projects around real operational scenarios and document the architecture, implementation, security controls, testing, and results.
 
-**Areas of Expertise:**
-- 🔐 Cybersecurity & Information Security — risk assessment, compliance governance, security controls
-- ☁️ Microsoft Cloud Engineering — Azure, Microsoft 365, Entra ID (Azure AD)
-- 🛡️ Identity & Access Management — Conditional Access, PIM, MFA, Zero Trust architecture
-- 💻 Endpoint Management — Microsoft Intune, Windows Autopilot, device compliance
-- 📡 Network Security & Threat Detection — Wireshark, Splunk SIEM, pfSense, Nmap
-- 🎫 IT Service Management — ServiceNow incident, change, and service catalog workflows
+ **Areas of Expertise:**
+
+- ☁️ **Azure Cloud Infrastructure** — Virtual Machines, VNets, subnets, NSGs, Azure SQL, networking, and secure cloud architecture
+- 🛡️ **Cloud Security & Security Operations** — Microsoft Sentinel, Log Analytics, KQL, Azure Monitor, security monitoring, detection, and incident investigation
+- 🔐 **Identity & Access Management** — Microsoft Entra ID, Azure RBAC, Managed Identities, Conditional Access, PIM, MFA, and Zero Trust
+- 🏗️ **Infrastructure as Code & Automation** — Terraform, Azure CLI, PowerShell, Microsoft Graph, and Bash
+- 🏢 **Microsoft 365 & Endpoint Management** — Microsoft 365, Intune, Windows Autopilot, Exchange Online, Teams, SharePoint, and OneDrive
+- 🔎 **Vulnerability & Network Security** — Nessus, Qualys, Rapid7, Wireshark, Nmap, pfSense, and Splunk
+- 📋 **Governance, Risk & Compliance** — NIST CSF, ISO 27001, security controls, risk assessment, compliance governance, and IT audit
+- 🎫 **IT Operations & Service Management** — ServiceNow incident, change, service catalog, troubleshooting, and operational support
 
 ---
 
@@ -44,17 +47,23 @@ My work covers the full enterprise IT stack — from securing Microsoft Entra ID
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Cloud Platforms** | Microsoft Azure, Microsoft 365 |
-| **Identity & Security** | Microsoft Entra ID, Conditional Access, PIM, MFA, Zero Trust |
-| **Endpoint Management** | Microsoft Intune, Windows Autopilot, Entra ID Join |
-| **ITSM** | ServiceNow — Incident, Change, Service Catalog, Reporting |
-| **Collaboration** | Microsoft Teams Admin Center, Exchange Online, SharePoint |
-| **Network & Security** | Wireshark, Splunk SIEM, pfSense, Nmap, Kali Linux |
-| **Risk & Compliance** | CISA, Risk Management, Compliance Governance, Audit |
-| **Monitoring & Detection** | Splunk SPL, Azure Monitor, Entra ID Protection |
+ ## 🛠 Technical Skills
 
+| Category | Technologies & Capabilities |
+|---|---|
+| **Azure Infrastructure** | Azure Virtual Machines, Virtual Networks (VNets), Subnets, NSGs, Public & Private IPs, Resource Groups |
+| **Azure Identity & Access** | Microsoft Entra ID, Azure RBAC, Managed Identities, Conditional Access, PIM, MFA, Zero Trust |
+| **Azure Security** | Azure Key Vault, Microsoft Defender for Cloud, Network Security Groups, Least Privilege, Identity Security |
+| **Security Operations** | Microsoft Sentinel, Log Analytics, KQL, Analytics Rules, Security Event Monitoring, Incident Investigation |
+| **Azure Monitoring** | Azure Monitor, Log Analytics Workspaces, Data Collection Rules (DCR), Azure Activity Logs |
+| **Azure Governance** | Azure Policy, RBAC, Resource Locks, Governance & Compliance Controls |
+| **Infrastructure as Code** | Terraform, AzureRM Provider, Remote State, State Locking, Infrastructure Deployment |
+| **Automation & Scripting** | PowerShell, Azure CLI, Microsoft Graph, Bash |
+| **Microsoft 365** | Microsoft 365, Intune, Exchange Online, Teams, SharePoint, OneDrive |
+| **Endpoint Management** | Microsoft Intune, Windows Autopilot, Entra ID Join |
+| **Vulnerability Management** | Nessus, Qualys, Rapid7 |
+| **Security & Networking** | Wireshark, Splunk, Nmap, pfSense, Linux |
+| **Risk & Compliance** | CISA, NIST CSF, ISO 27001, Risk Management, Compliance Governance, Audit |
 ---
 
 ## 📁 Portfolio Projects
