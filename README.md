@@ -16,7 +16,8 @@
 
 ## 👨‍💻 About Me
 
- I am a **CISA-certified, CompTIA Security+, and Microsoft SC-401 certified Azure Cloud & Security professional** with hands-on experience designing, deploying, securing, monitoring, and automating Microsoft cloud environments. My work spans Azure infrastructure, cloud security, identity and access management, security operations, Microsoft 365, risk management, compliance governance, and IT service management.
+ I am a **CISA-certified, CompTIA Security+, and Microsoft SC-401 certified Azure Cloud & Security professional with hands-on experience designing, securing, monitoring, and automating Microsoft cloud environments. My work spans Azure infrastructure, Microsoft 365, Entra ID, Microsoft Sentinel, vulnerability management, identity security, governance, risk, compliance, and IT service management.
+.
 
 My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnets, NSGs, Azure SQL, Key Vault, Managed Identities, RBAC, Azure Monitor, Log Analytics, and Microsoft Sentinel**, as well as automating Azure infrastructure with **Terraform, PowerShell, Azure CLI, and Microsoft Graph**. I build projects around real operational scenarios and document the architecture, implementation, security controls, testing, and results.
 
