@@ -31,8 +31,7 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 - 📋 **Governance, Risk & Compliance** — NIST CSF, ISO 27001, security controls, risk assessment, compliance governance, and IT audit
 - 🎫 **IT Operations & Service Management** — ServiceNow incident, change, service catalog, troubleshooting, and operational support
 
----
-
+--- 
 ## 🏅 Certifications
 
 | Certification | Issuing Body | Status |
@@ -45,23 +44,24 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 
 ---
 
- ## 🛠 Technical Skills
+## 🛠 Technical Skills
 
 | Category | Technologies & Capabilities |
 |---|---|
 | **Azure Infrastructure** | Azure Virtual Machines, Virtual Networks (VNets), Subnets, NSGs, Public & Private IPs, Resource Groups |
 | **Azure Identity & Access** | Microsoft Entra ID, Azure RBAC, Managed Identities, Conditional Access, PIM, MFA, Zero Trust |
 | **Azure Security** | Azure Key Vault, Microsoft Defender for Cloud, Network Security Groups, Least Privilege, Identity Security |
-| **Security Operations** | Microsoft Sentinel, Log Analytics, KQL, Analytics Rules, Security Event Monitoring, Incident Investigation |
+| **Security Operations** | Microsoft Sentinel, Log Analytics, KQL, Analytics Rules, Security Event Monitoring, Incident Investigation, Splunk |
 | **Azure Monitoring** | Azure Monitor, Log Analytics Workspaces, Data Collection Rules (DCR), Azure Activity Logs |
 | **Azure Governance** | Azure Policy, RBAC, Resource Locks, Governance & Compliance Controls |
 | **Infrastructure as Code** | Terraform, AzureRM Provider, Remote State, State Locking, Infrastructure Deployment |
 | **Automation & Scripting** | PowerShell, Azure CLI, Microsoft Graph, Bash |
 | **Microsoft 365** | Microsoft 365, Intune, Exchange Online, Teams, SharePoint, OneDrive |
 | **Endpoint Management** | Microsoft Intune, Windows Autopilot, Entra ID Join |
-| **Vulnerability Management** | Nessus, Wireshark, Nmap, pfSense, and Splunk|
-| **Security & Networking** | Wireshark, Splunk, Nmap, pfSense, Linux |
+| **Vulnerability Management** | Nessus, vulnerability scanning, remediation validation, exposure analysis |
+| **Network Security & Traffic Analysis** | Wireshark, Nmap, pfSense, Linux, packet analysis, network troubleshooting |
 | **Risk & Compliance** | CISA, NIST CSF, ISO 27001, Risk Management, Compliance Governance, Audit |
+
 ---
 
 ## 📁 Portfolio Projects
@@ -91,14 +91,13 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 | [**Wireshark Threat Detection Lab**](https://github.com/kingsrule50/wireshark-threat-detection-lab) | Simulated SYN scan and SMB enumeration attacks in a segmented VMware lab, captured full attack traffic in Wireshark, and produced SOC-ready detection logic mapped to MITRE ATT&CK |
 | [**Active Directory on Azure — Terraform**](https://github.com/kingsrule50/azure-ad-terraform-lab) | Deployed Windows Server Active Directory Domain Services on Azure using Terraform, including automated AD DS installation, DNS configuration, domain promotion, and infrastructure provisioning. |
 
- ### 💻 Microsoft 365 & Endpoint Management
+### 💻 Microsoft 365 & Endpoint Management
 
 | Project | What I Built |
 |---|---|
 | [**Windows Autopilot & Intune**](https://github.com/kingsrule50/windows-autopilot-intune) | Implemented zero-touch Windows provisioning with Microsoft Intune and Windows Autopilot, including hardware registration, deployment profiles, Entra ID integration, MFA enforcement, Windows Hello for Business, and device compliance validation. |
 | [**Champulze Microsoft 365 Tenant Deployment**](https://github.com/kingsrule50/Champulze_M365_Project_) | Built and configured a Microsoft 365 tenant environment including domain integration, user provisioning, Exchange Online, SharePoint, Microsoft Teams, licensing, security configuration, and user acceptance testing. |
 | [**Soulinspire Microsoft Teams Rollout**](https://github.com/kingsrule50/soulinspire-m365-teams-rollout) | Designed a governed Microsoft Teams deployment including team provisioning, channel architecture, messaging policies, caller ID controls, audio conferencing, and Microsoft 365 administration. |
-
 
 ### 📡 IT Operations & ITSM
 
