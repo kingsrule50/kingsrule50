@@ -4,7 +4,7 @@
 
 ### Azure Cloud & Security Professional | CISA | Security+ | SC-401 | Azure Infrastructure • Entra ID • Microsoft Sentinel • Terraform • Microsoft 365
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu--cisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu---0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![CISA](https://img.shields.io/badge/CISA-Certified-CC0000?style=for-the-badge&logo=isaca&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![SC-401](https://img.shields.io/badge/Microsoft-SC--401-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
