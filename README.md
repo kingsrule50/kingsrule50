@@ -142,7 +142,7 @@ New Jersey, USA
 I am open to opportunities in **Azure Cloud Engineering, Azure Administration, Cloud Security, Security Operations, Microsoft 365, Identity & Access Management, and GRC**, across the **New Jersey / New York metro area and remote**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chinedu-asuzu">
+  <a href="https://www.linkedin.com/in/chinedu-asuzu-cisa">
     <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
