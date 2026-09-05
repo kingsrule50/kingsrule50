@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chinedu k Asuzu
+# Chinedu K Asuzu
 
 ### Azure Cloud & Security Professional | CISA | Security+ | SC-401 | Azure Infrastructure • Entra ID • Microsoft Sentinel • Terraform • Microsoft 365
 
@@ -45,8 +45,6 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 
 ---
 
-## 🛠️ Technical Skills
-
  ## 🛠 Technical Skills
 
 | Category | Technologies & Capabilities |
@@ -61,7 +59,7 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 | **Automation & Scripting** | PowerShell, Azure CLI, Microsoft Graph, Bash |
 | **Microsoft 365** | Microsoft 365, Intune, Exchange Online, Teams, SharePoint, OneDrive |
 | **Endpoint Management** | Microsoft Intune, Windows Autopilot, Entra ID Join |
-| **Vulnerability Management** | Nessus, Qualys, Rapid7 |
+| **Vulnerability Management** | Nessus, Wireshark, Nmap, pfSense, and Splunk|
 | **Security & Networking** | Wireshark, Splunk, Nmap, pfSense, Linux |
 | **Risk & Compliance** | CISA, NIST CSF, ISO 27001, Risk Management, Compliance Governance, Audit |
 ---
@@ -87,7 +85,7 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 
 | Project | What I Built |
 |---------|-------------|
-| [**Azure SOC Homelab — Splunk SIEM**](https://github.com/kingsrule50/azure-soc-homelab) | Deployed Splunk Enterprise on Azure, ingested Active Directory event logs via Universal Forwarder, wrote SPL detection queries, built security dashboards, and automated brute-force alerting |
+| [**Azure — Splunk -soc SIEM**](https://github.com/kingsrule50/azure-splunk-soc)) | Deployed Splunk Enterprise on Azure, ingested Active Directory event logs via Universal Forwarder, wrote SPL detection queries, built security dashboards, and automated brute-force alerting |
 | [**Conditional Access & MFA Lab**](https://github.com/kingsrule50/conditional-access-mfa-lab) | Layered Conditional Access architecture in Microsoft Entra ID — enforcing MFA, blocking Tor-based sign-ins using real-time risk signals, and automating password resets when account risk is elevated to High |
 | [**Privileged Identity Management (PIM)**](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | Just-In-Time access control for Global Administrator — time-bound PIM eligibility, MFA on activation, multi-approver workflows, and full audit logging replacing permanent standing privilege |
 | [**Wireshark Threat Detection Lab**](https://github.com/kingsrule50/wireshark-threat-detection-lab) | Simulated SYN scan and SMB enumeration attacks in a segmented VMware lab, captured full attack traffic in Wireshark, and produced SOC-ready detection logic mapped to MITRE ATT&CK |
@@ -134,7 +132,8 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 ## 🎓 Education
 
 **New Jersey Institute of Technology**
-Irvington, New Jersey, USA
+Cybersecurity Professional Program
+New Jersey, USA
 
 ---
 
