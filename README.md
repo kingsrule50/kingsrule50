@@ -27,7 +27,7 @@ My hands-on portfolio includes deploying **Azure virtual machines, VNets, subnet
 - 🔐 **Identity & Access Management** — Microsoft Entra ID, Azure RBAC, Managed Identities, Conditional Access, PIM, MFA, and Zero Trust
 - 🏗️ **Infrastructure as Code & Automation** — Terraform, Azure CLI, PowerShell, Microsoft Graph, and Bash
 - 🏢 **Microsoft 365 & Endpoint Management** — Microsoft 365, Intune, Windows Autopilot, Exchange Online, Teams, SharePoint, and OneDrive
-- 🔎 **Vulnerability & Network Security** — Nessus, Qualys, Rapid7, Wireshark, Nmap, pfSense, and Splunk
+- 🔎 **Vulnerability & Network Security** — Nessus, Wireshark, Nmap, pfSense, and Splunk
 - 📋 **Governance, Risk & Compliance** — NIST CSF, ISO 27001, security controls, risk assessment, compliance governance, and IT audit
 - 🎫 **IT Operations & Service Management** — ServiceNow incident, change, service catalog, troubleshooting, and operational support
 
