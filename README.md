@@ -2,7 +2,7 @@
 
 # Chinedu K Asuzu
 
-### Azure Cloud & Security | Microsoft 365 | Entra ID | Microsoft Sentinel | Terraform
+### Azure Cloud Engineering & Cybersecurity | Microsoft 365 | Entra ID | Microsoft Sentinel | Terraform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu---0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
 [![CISA](https://img.shields.io/badge/CISA-Certified-CC0000?style=for-the-badge&logo=isaca&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Azure Cloud and Security professional with hands-on experience designing, securing, monitoring, and automating Microsoft cloud environments.
+Azure Cloud Engineering and Cybersecurity professional with hands-on experience designing, securing, monitoring, and automating Microsoft cloud environments.
 
 My work spans **Azure infrastructure, Microsoft 365, Entra ID, Microsoft Sentinel, Terraform, identity security, vulnerability management, and cloud governance**.
 
