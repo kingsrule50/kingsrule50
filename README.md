@@ -14,13 +14,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
-Azure Cloud Engineering and Cybersecurity professional with hands-on experience designing, securing, monitoring, and automating Microsoft cloud environments.
+I am an Azure Cloud Engineering and Cybersecurity professional focused on building, securing, monitoring, and automating Microsoft cloud environments.
 
-My work spans **Azure infrastructure, Microsoft 365, Entra ID, Microsoft Sentinel, Terraform, identity security, vulnerability management, and cloud governance**.
+My portfolio includes hands-on projects across Azure infrastructure, Microsoft 365 security, Entra ID identity governance, Microsoft Sentinel monitoring, Terraform automation, vulnerability management, and cloud governance.
 
-This portfolio documents hands-on projects built around real-world infrastructure, security, automation, and operational scenarios.
+This GitHub documents practical lab and portfolio projects designed around real-world infrastructure, security operations, compliance, and automation scenarios.
+
 
 ---
 
