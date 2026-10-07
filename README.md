@@ -4,12 +4,10 @@
 
 ### Azure Cloud Engineering & Cybersecurity | Microsoft 365 | Entra ID | Microsoft Sentinel | Terraform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu---0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-[![CISA](https://img.shields.io/badge/CISA-Certified-CC0000?style=for-the-badge&logo=isaca&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-[![SC-401](https://img.shields.io/badge/Microsoft-SC--401-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-New%20Jersey%20USA-28a745?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cisa)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu--cloud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
+[![SC-401](https://img.shields.io/badge/Microsoft-SC--401-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-New%20Jersey%2C%20USA-28a745?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
 </div>
 
 ---
@@ -21,6 +19,8 @@ I am an Azure Cloud Engineering and Cybersecurity professional focused on buildi
 My portfolio includes hands-on projects across Azure infrastructure, Microsoft 365 security, Entra ID identity governance, Microsoft Sentinel monitoring, Terraform automation, vulnerability management, and cloud governance.
 
 This GitHub documents practical lab and portfolio projects designed around real-world infrastructure, security operations, compliance, and automation scenarios.
+
+I currently serve as a Microsoft 365 & Azure Administrator (Volunteer Intern) at Cupetence Technologies, supporting Entra ID, Teams, SharePoint, Exchange Online and Azure infrastructure.
 
 
 ---
@@ -56,40 +56,43 @@ This GitHub documents practical lab and portfolio projects designed around real-
 
 ## 🟣 Microsoft 365 Lab Projects
 
-| Project                                                                                                 | Focus                                |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [Microsoft 365 Tenant Deployment](https://github.com/kingsrule50/microsoft-365-tenant-deployment)       | M365 • Exchange • SharePoint • Teams |
-| [Microsoft Teams Rollout](https://github.com/kingsrule50/soulinspire-m365-teams-rollout)                | Teams • Governance • Administration  |
-| [Windows Autopilot & Intune](https://github.com/kingsrule50/windows-autopilot-intune)                   | Intune • Autopilot • Entra ID        |
-| [Conditional Access & MFA](https://github.com/kingsrule50/conditional-access-mfa-lab)                   | Entra ID • MFA • Conditional Access  |
-| [Privileged Identity Management](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | PIM • JIT • MFA • RBAC               |
+ | Project | Focus |
+| ------- | ----- |
+| [Microsoft Purview Data Protection](https://github.com/kingsrule50/m365-purview-data-protection-lab) | Purview • DLP • Sensitivity Labels • Retention |
+| [Microsoft Entra Identity Security](https://github.com/kingsrule50/m365-entra-identity-security-lab) | Conditional Access • FIDO2 • PIM • Zero Trust |
+| [Exchange Online & Email Security](https://github.com/kingsrule50/m365-exchange-email-security-lab) | Defender for Office 365 • Safe Links • Phishing Simulation |
+| [Microsoft 365 Tenant Deployment](https://github.com/kingsrule50/microsoft-365-tenant-deployment) | M365 • Exchange • SharePoint • Teams |
+| [Microsoft Teams Rollout](https://github.com/kingsrule50/soulinspire-m365-teams-rollout) | Teams • Governance • Administration |
+| [Windows Autopilot & Intune](https://github.com/kingsrule50/windows-autopilot-intune) | Intune • Autopilot • Entra ID |
+| [Conditional Access & MFA](https://github.com/kingsrule50/conditional-access-mfa-lab) | Entra ID • MFA • Conditional Access |
+| [Privileged Identity Management](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | PIM • JIT • MFA • RBAC |
 
 ---
 
 ## 🛠 Core Technologies
 
-**Cloud:** Azure • Microsoft 365
-**Identity:** Entra ID • RBAC • PIM • Conditional Access
-**Security:** Microsoft Sentinel • KQL • Nessus • Splunk
-**Automation:** Terraform • PowerShell • Azure CLI • Microsoft Graph
-**Operations:** Azure Monitor • Log Analytics • Intune • ServiceNow
+ - **Cloud:** Azure • Microsoft 365
+- **Identity:** Entra ID • RBAC • PIM • Conditional Access
+- **Security:** Microsoft Sentinel • KQL • Nessus • Splunk
+- **Automation:** Terraform • PowerShell • Azure CLI • Microsoft Graph
+- **Operations:** Azure Monitor • Log Analytics • Intune • ServiceNow
 
 ---
 
 ## 🏅 Certifications
 
-**CISA** • **CompTIA Security+** • **Microsoft SC-401**
+**CompTIA Security+** • **Microsoft SC-401** • **Microsoft AZ-104 ( in progress )** 
 
 ---
 
 ## 🔬 Additional Projects
 
-[Wireshark Threat Detection](https://github.com/kingsrule50/wireshark-threat-detection-lab) • [ServiceNow ITSM](https://github.com/kingsrule50/servicenow-itsm-lab)
+[ServiceNow ITSM](https://github.com/kingsrule50/servicenow-itsm-lab)
 
 ---
 
 ## 🤝 Connect
 
-**[LinkedIn](https://www.linkedin.com/in/chinedu-asuzu-cisa)**
+**[LinkedIn](https://www.linkedin.com/in/chinedu-asuzu-cloud)**
 
 Open to opportunities in **Azure Administration, Azure Cloud Engineering, Microsoft 365 Engineering, Cloud Security, SOC Operations, and Identity & Access Management**.
