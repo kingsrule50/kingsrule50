@@ -8,7 +8,11 @@
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
 [![SC-401](https://img.shields.io/badge/Microsoft-SC--401-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-New%20Jersey%2C%20USA-28a745?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
+
+🌐 **Portfolio:** [chineduasuzu.com](https://chineduasuzu.com)
+
 </div>
+                                                  
 
 ---
 
