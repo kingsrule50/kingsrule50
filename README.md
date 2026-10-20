@@ -16,15 +16,17 @@
 
 ---
 
-## 👨‍💻 About Me 
+## 👨‍💻 About Me
 
-I am an Azure Cloud Engineering and Cybersecurity professional focused on building, securing, monitoring, and automating Microsoft cloud environments.
+I’m a Microsoft 365 Information Security and Azure Administrator focused on securing, managing, and automating Microsoft 365 and Azure environments. I hold CompTIA Security+ and Microsoft SC-401 certifications and am currently preparing for AZ-104.
 
-My portfolio includes hands-on projects across Azure infrastructure, Microsoft 365 security, Entra ID identity governance, Microsoft Sentinel monitoring, Terraform automation, vulnerability management, and cloud governance.
+My work focuses on Microsoft 365 administration, Azure administration, identity security, information protection, compliance, and automation. I build hands-on projects using Microsoft Entra ID, Conditional Access, MFA, RBAC, Microsoft Purview, Exchange Online, Teams, SharePoint, Microsoft Sentinel, Terraform, Bicep, PowerShell, and Azure CLI.
 
-This GitHub documents practical lab and portfolio projects designed around real-world infrastructure, security operations, compliance, and automation scenarios.
+This GitHub portfolio documents practical Microsoft cloud projects with step-by-step implementation, testing, and validation evidence.
 
-I currently serve as a Microsoft 365 & Azure Administrator (Volunteer Intern) at Cupetence Technologies, supporting Entra ID, Teams, SharePoint, Exchange Online and Azure infrastructure.
+I’m focused on Microsoft 365, Azure administration, identity security, information protection, and compliance-focused cloud environments.
+
+
 
 
 ---
