@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Microsoft 365 Information Security and Azure Administrator focused on securing, managing, and automating Microsoft 365 and Azure environments. I hold CompTIA Security+,Microsoft Certified Information Security Administrator Associate (SC-401), and Microsoft Certified Azure Administrator Associate (AZ-104) Certifications.
+I’m a Microsoft 365 and Azure Administrator focused on securing, managing, and automating Microsoft 365 and Azure environments. I hold CompTIA Security+,Microsoft Certified Information Security Administrator Associate (SC-401), and Microsoft Certified Azure Administrator Associate (AZ-104) Certifications.
 
 My work focuses on Microsoft 365 administration, Azure administration, identity security, information protection, compliance, and automation. I build hands-on projects using Microsoft Entra ID, Conditional Access, MFA, RBAC, Microsoft Purview, Exchange Online, Teams, SharePoint, Microsoft Sentinel, Terraform, Bicep, PowerShell, and Azure CLI.
 
