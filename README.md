@@ -26,11 +26,10 @@ This portfolio documents practical projects through step-by-step implementation,
 
 ---
 
-## 📁 Microsoft Cloud Learning & Lab Portfolio
+## 📁 Lab Projects
+Hands-on projects demonstrating Microsoft 365 administration, Azure infrastructure, identity security, data protection, security operations, and automation.
 
-My portfolio is organized around seven study areas aligned with my Microsoft Learn learning plan, followed by a General Lab Collection.
-
-Microsoft Learn modules and exercises form my primary training path. Existing projects serve as portfolio references within the relevant sections. Each project is listed under its primary area of focus.
+Projects are organized by technical discipline, with implementation documentation, configuration details, testing, and validation evidence.
 
 ### Explore the Sections
 
@@ -48,13 +47,34 @@ Microsoft Learn modules and exercises form my primary training path. Existing pr
 
 ## 1. Microsoft 365 Administration
 
-**Focus:** Tenant administration, Exchange Online, Teams, SharePoint, endpoint management, and secure collaboration.
+**Focus:** Tenant administration, messaging, collaboration, endpoint management, and secure access to Microsoft 365 services.
+
+### Tenant Administration
 
 | Project | Skills & Focus |
 | --- | --- |
 | [Microsoft 365 Tenant Deployment](https://github.com/kingsrule50/microsoft-365-tenant-deployment) | Microsoft 365 • Exchange • SharePoint • Teams |
+
+### Exchange Online & Email Security
+
+| Project | Skills & Focus |
+| --- | --- |
 | [Exchange Online & Email Security](https://github.com/kingsrule50/m365-exchange-email-security-lab) | Defender for Office 365 • Safe Links • Phishing Simulation |
+
+### Microsoft Teams & Collaboration
+
+| Project | Skills & Focus |
+| --- | --- |
 | [Microsoft Teams Rollout](https://github.com/kingsrule50/soulinspire-m365-teams-rollout) | Teams • Governance • Administration |
+
+### SharePoint Online & OneDrive
+
+Dedicated project links will be added as labs are published. The Microsoft 365 Tenant Deployment project above also covers SharePoint.
+
+### Intune & Windows Autopilot
+
+| Project | Skills & Focus |
+| --- | --- |
 | [Windows Autopilot & Intune](https://github.com/kingsrule50/windows-autopilot-intune) | Intune • Autopilot • Entra ID • Device Compliance |
 
 ---
@@ -110,9 +130,9 @@ Microsoft Learn modules and exercises form my primary training path. Existing pr
 
 ## 6. Copilot / AI in the Microsoft Ecosystem
 
-**Learning focus:** Microsoft 365 Copilot, Security Copilot, AI security and governance, and GitHub Copilot for Azure administration.
+**Focus:** Microsoft 365 Copilot, Security Copilot, AI security and governance, and GitHub Copilot for Azure administration.
 
-*Project links will be added as labs are published.*
+Project links will be added as labs are published.
 
 ---
 
@@ -130,7 +150,7 @@ Microsoft Learn modules and exercises form my primary training path. Existing pr
 
 **Series order:** Terraform Infrastructure → Active Directory → Enterprise File Server
 
-**Additional learning focus:** PowerShell, Azure CLI, Microsoft Graph, Bicep, and Power Automate.
+**Tools & Technologies:** PowerShell, Azure CLI, Microsoft Graph, Bicep, and Power Automate.
 
 ---
 
@@ -167,4 +187,6 @@ Projects covering additional platforms and skills outside the seven study areas.
 
 **[LinkedIn](https://www.linkedin.com/in/chinedu-asuzu-cloud)** · **[Portfolio](https://chineduasuzu.com)**
 
-Open to opportunities in **Microsoft 365 Administration, Azure Administration, Cloud Security, Identity & Access Management, and Security Operations**.
+Open to opportunities in **Microsoft 365 Administration, Azure Administration, Cloud Security, Identity & Access Management**.
+
+ 
