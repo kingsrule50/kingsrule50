@@ -27,6 +27,7 @@ This portfolio documents practical projects through step-by-step implementation,
 ---
 
 ## 📁 Lab Projects
+
 Hands-on projects demonstrating Microsoft 365 administration, Azure infrastructure, identity security, data protection, security operations, and automation.
 
 Projects are organized by technical discipline, with implementation documentation, configuration details, testing, and validation evidence.
@@ -59,6 +60,7 @@ Projects are organized by technical discipline, with implementation documentatio
 
 | Project | Skills & Focus |
 | --- | --- |
+| [Exchange Online Enterprise](https://github.com/kingsrule50/m365-exchange-online-enterprise-lab) | Mailbox Administration • Delegation • Mail Flow • Message Trace |
 | [Exchange Online & Email Security](https://github.com/kingsrule50/m365-exchange-email-security-lab) | Defender for Office 365 • Safe Links • Phishing Simulation |
 
 ### Microsoft Teams & Collaboration
@@ -69,7 +71,7 @@ Projects are organized by technical discipline, with implementation documentatio
 
 ### SharePoint Online & OneDrive
 
-Dedicated project links will be added as labs are published. The Microsoft 365 Tenant Deployment project above also covers SharePoint.
+SharePoint coverage is included in the Microsoft 365 Tenant Deployment project above.
 
 ### Intune & Windows Autopilot
 
@@ -112,18 +114,21 @@ Dedicated project links will be added as labs are published. The Microsoft 365 T
 
 | Project | Skills & Focus |
 | --- | --- |
-| [Microsoft Purview Data Protection](https://github.com/kingsrule50/m365-purview-data-protection-lab) | Purview • DLP • Sensitivity Labels • Retention |
+| [Microsoft Purview Data Protection](https://github.com/kingsrule50/m365-purview-data-protection) | Purview • DLP • Sensitivity Labels • Retention |
+| [Purview DLP Investigation & Tuning](https://github.com/kingsrule50/m365-purview-dlp-investigation-tuning-lab) | DLP Investigation • Policy Tuning |
 
 ---
 
 ## 5. Sentinel / SOC Operations
 
-**Focus:** Security monitoring, KQL, detection engineering, incident investigation, and vulnerability management.
+**Focus:** Security monitoring, KQL, detection engineering, incident investigation, insider risk correlation, and vulnerability management.
 
 | Project | Skills & Focus |
 | --- | --- |
-| [Microsoft Sentinel SOC Lab](https://github.com/kingsrule50/microsoft-sentinel-soc-lab) | Microsoft Sentinel • KQL • SOC Workflows |
+| [Microsoft Sentinel SOC](https://github.com/kingsrule50/microsoft-sentinel-soc) | Microsoft Sentinel • KQL • Security Monitoring |
 | [Sentinel Detection Engineering](https://github.com/kingsrule50/microsoft-sentinel-detection-engineering-lab) | KQL • Detection Rules • Incident Investigation |
+| [Azure Splunk SOC](https://github.com/kingsrule50/azure-splunk-soc) | Splunk • Windows Security Events • Sysmon • Detection |
+| [Insider Risk–Sentinel Correlation](https://github.com/kingsrule50/m365-insider-risk-sentinel-correlation) | Insider Risk • Microsoft Sentinel • Event Correlation |
 | [Nessus Vulnerability Scanning](https://github.com/kingsrule50/nessus-vulnerability-scanning-lab) | Nessus • Azure • Vulnerability Management |
 
 ---
@@ -131,8 +136,6 @@ Dedicated project links will be added as labs are published. The Microsoft 365 T
 ## 6. Copilot / AI in the Microsoft Ecosystem
 
 **Focus:** Microsoft 365 Copilot, Security Copilot, AI security and governance, and GitHub Copilot for Azure administration.
-
-Project links will be added as labs are published.
 
 ---
 
@@ -150,16 +153,29 @@ Project links will be added as labs are published.
 
 **Series order:** Terraform Infrastructure → Active Directory → Enterprise File Server
 
+### Planned Project: Active Directory & Kerberos Authentication
+
+**Scope:** Domain authentication, Kerberos tickets, service principal names (SPNs), and authentication troubleshooting.
+
+**Status:** Planned — repository not yet created.
+
+### Security Administration & Automation
+
+| Project | Skills & Focus |
+| --- | --- |
+| [M365 SecOps Automation Toolkit](https://github.com/kingsrule50/m365-secops-automation-toolkit) | PowerShell • Microsoft Graph • Identity Auditing • Compliance Checks |
+
 **Tools & Technologies:** PowerShell, Azure CLI, Microsoft Graph, Bicep, and Power Automate.
 
 ---
 
 ## General Lab Collection
 
-Projects covering additional platforms and skills outside the seven study areas.
+Projects covering additional platforms and operational skills outside the seven technical sections.
 
 | Project | Skills & Focus |
 | --- | --- |
+| [Kingsrule Helpdesk](https://github.com/kingsrule50/kingsrule-helpdesk-lab) | IT Support • Helpdesk Operations • Service Management |
 | [ServiceNow ITSM](https://github.com/kingsrule50/servicenow-itsm-lab) | IT Service Management • ServiceNow |
 
 ---
@@ -167,9 +183,9 @@ Projects covering additional platforms and skills outside the seven study areas.
 ## 🛠 Core Technologies
 
 - **Cloud & Collaboration:** Azure • Microsoft 365 • Exchange Online • Teams • SharePoint
-- **Identity & Access:** Microsoft Entra ID • RBAC • PIM • Conditional Access • MFA
+- **Identity & Access:** Microsoft Entra ID • Active Directory • RBAC • PIM • Conditional Access • MFA
 - **Information Protection:** Microsoft Purview • DLP • Sensitivity Labels • Retention
-- **Security Operations:** Microsoft Sentinel • KQL • Nessus • Splunk
+- **Security Operations:** Microsoft Sentinel • KQL • Splunk • Sysmon • Nessus
 - **Infrastructure & Automation:** Terraform • Bicep • PowerShell • Azure CLI • Microsoft Graph
 - **Management & Monitoring:** Azure Monitor • Log Analytics • Intune • ServiceNow
 
@@ -187,6 +203,6 @@ Projects covering additional platforms and skills outside the seven study areas.
 
 **[LinkedIn](https://www.linkedin.com/in/chinedu-asuzu-cloud)** · **[Portfolio](https://chineduasuzu.com)**
 
-Open to opportunities in **Microsoft 365 Administration, Azure Administration, Cloud Security, Identity & Access Management**.
+Open to opportunities in **Microsoft 365 Administration, Azure Administration, Cloud Security, Identity & Access Management, and Security Operations**.
 
  
