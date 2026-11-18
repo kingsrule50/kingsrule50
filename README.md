@@ -107,9 +107,6 @@ SharePoint coverage is included in the Microsoft 365 Tenant Deployment project a
 | [Privileged Identity Management](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | PIM • Just-in-Time Access • MFA • RBAC |
 
 ---
-
-## 4. Microsoft Purview
-
 ## 4. Microsoft Purview
 
 **Focus:** Information protection, data loss prevention, sensitivity labels, retention, and compliance.
