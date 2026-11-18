@@ -110,13 +110,15 @@ SharePoint coverage is included in the Microsoft 365 Tenant Deployment project a
 
 ## 4. Microsoft Purview
 
+## 4. Microsoft Purview
+
 **Focus:** Information protection, data loss prevention, sensitivity labels, retention, and compliance.
 
 | Project | Skills & Focus |
 | --- | --- |
 | [Microsoft Purview Data Protection](https://github.com/kingsrule50/m365-purview-data-protection) | Purview • DLP • Sensitivity Labels • Retention |
 | [Purview DLP Investigation & Tuning](https://github.com/kingsrule50/m365-purview-dlp-investigation-tuning-lab) | DLP Investigation • Policy Tuning |
-
+| [Microsoft Purview Endpoint DLP — SFTP Protection](https://github.com/kingsrule50/m365-purview-endpoint-dlp-sftp) | Endpoint DLP • SFTP Security • Audit & Block • User Override |
 ---
 
 ## 5. Sentinel / SOC Operations
