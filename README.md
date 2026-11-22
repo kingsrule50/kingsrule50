@@ -98,7 +98,7 @@ SharePoint coverage is included in the Microsoft 365 Tenant Deployment project a
 
 ## 3. Identity & Access Management (Entra ID)
 
-**Focus:** Identity administration, authentication, Conditional Access, privileged access, and Zero Trust.
+**Focus:** Identity lifecycle (Joiner • Mover • Leaver), identity administration, authentication, Conditional Access, privileged access, and Zero Trust..
 
 | Project | Skills & Focus |
 | --- | --- |
