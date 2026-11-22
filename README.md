@@ -36,7 +36,7 @@ Projects are organized by technical discipline, with implementation documentatio
 
 1. [Microsoft 365 Administration](#1-microsoft-365-administration)
 2. [Azure Administration](#2-azure-administration)
-3. [Microsoft Entra ID](#3-microsoft-entra-id)
+3. [Identity & Access Management](#3-microsoft-entra-id)
 4. [Microsoft Purview](#4-microsoft-purview)
 5. [Sentinel / SOC Operations](#5-sentinel--soc-operations)
 6. [Copilot / AI in the Microsoft Ecosystem](#6-copilot--ai-in-the-microsoft-ecosystem)
@@ -96,7 +96,7 @@ SharePoint coverage is included in the Microsoft 365 Tenant Deployment project a
 
 ---
 
-## 3. Microsoft Entra ID
+## 3. Identity & Access Management (Entra ID)
 
 **Focus:** Identity administration, authentication, Conditional Access, privileged access, and Zero Trust.
 
@@ -105,6 +105,7 @@ SharePoint coverage is included in the Microsoft 365 Tenant Deployment project a
 | [Microsoft Entra Identity Security](https://github.com/kingsrule50/m365-entra-identity-security-lab) | Conditional Access • FIDO2 Passkeys • PIM • Zero Trust |
 | [Conditional Access & MFA](https://github.com/kingsrule50/conditional-access-mfa-lab) | Entra ID • MFA • Access Policies |
 | [Privileged Identity Management](https://github.com/kingsrule50/privileged-identity-management-pim-lab) | PIM • Just-in-Time Access • MFA • RBAC |
+| [Enterprise IAM Lifecycle (JML)](https://github.com/kingsrule50/enterprise-iam-lifecycle-jml-automation) | Joiner • Mover • Leaver • AD + Entra ID • Graph • ServiceNow |
 
 ---
 ## 4. Microsoft Purview
