@@ -2,7 +2,7 @@
 
 # Chinedu K Asuzu
 
-Microsoft 365 & Azure Administration | Identity & Access (Entra ID) | Purview | Sentinel | PowerShell & Terraform
+### Microsoft 365 & Azure Admin | Identity & Access (Entra ID) | Purview | Sentinel | PowerShell & Terraform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedu--asuzu--cloud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge)](https://www.linkedin.com/in/chinedu-asuzu-cloud)
@@ -20,7 +20,7 @@ Microsoft 365 & Azure Administration | Identity & Access (Entra ID) | Purview | 
 
 I’m a Microsoft 365 and Azure Administrator focused on securing, managing, and automating Microsoft cloud environments. I hold CompTIA Security+, Microsoft Certified: Information Security Administrator Associate (SC-401), and Microsoft Certified: Azure Administrator Associate (AZ-104) certifications.
 
-My hands-on work covers identity and access management (user lifecycle, Conditional Access, PIM), Microsoft 365 administration, Azure infrastructure, information protection with Microsoft Purview, security operations with Microsoft Sentinel, and automation with PowerShell, Microsoft Graph and Terraform..
+My hands-on work covers identity and access management (user lifecycle, Conditional Access, PIM), Microsoft 365 administration, Azure infrastructure, information protection with Microsoft Purview, security operations with Microsoft Sentinel, and automation with PowerShell, Microsoft Graph and Terraform.
 
 This portfolio documents practical projects through step-by-step implementation, testing, troubleshooting, and validation evidence.
 
